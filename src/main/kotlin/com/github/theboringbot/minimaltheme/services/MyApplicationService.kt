@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.theboringbot.minimaltheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.theboringbot.minimaltheme.MyBundle
 
 class MyApplicationService {
 
